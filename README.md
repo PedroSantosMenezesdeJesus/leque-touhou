@@ -1,4 +1,4 @@
-# leque-touhou
+# Trabalho de modelagem: leque-touhou
 
 Alunos: Matheus Henrique galindo campos e Pedro Santos
 
