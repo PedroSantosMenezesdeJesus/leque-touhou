@@ -18,6 +18,8 @@ A paleta de cores de Reimu Hakurei é bastante característica e reflete seu vis
 
 Essas cores juntas criam uma aparência icônica, misturando elementos tradicionais do vestuário xintoísta com o estilo característico do universo Touhou.
 
+![image](https://github.com/user-attachments/assets/04735fb4-de17-4bbc-be68-249fae063ca7)
+
 Sobre o item mágico:
 
 Poder Espiritual e Exorcismo:
@@ -25,3 +27,5 @@ Poder Espiritual e Exorcismo:
  O leque pode ser visto como uma extensão dos poderes espirituais de Reimu. No folclore japonês, leques são, por vezes, associados ao afastamento de espíritos malignos ou à dispersão de más energias, o que se alinha com o trabalho de Reimu como exorcista, ajudando a purificar e equilibrar as forças espirituais em Gensokyo.
 
 O leque poderia servir como uma arma para lançar rajadas de vento ou projéteis mágicos, harmonizando a simbologia espiritual com seu papel ativo em combates contra youkais e outras ameaças.
+
+![image](https://github.com/user-attachments/assets/7a0cb218-1885-4168-9094-9351c71d0f05)
