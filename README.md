@@ -29,3 +29,5 @@ Poder Espiritual e Exorcismo:
 O leque poderia servir como uma arma para lançar rajadas de vento ou projéteis mágicos, harmonizando a simbologia espiritual com seu papel ativo em combates contra youkais e outras ameaças.
 
 ![image](https://github.com/user-attachments/assets/7a0cb218-1885-4168-9094-9351c71d0f05)
+
+[link para downloud do modelo 3d](https://drive.google.com/file/d/1P0fQIuhbP0ZfgZCLO2QEHRyesr6W0opw/view?usp=sharing)
